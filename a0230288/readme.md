@@ -42,8 +42,8 @@
 
 ## Tools
 
-- Basic setup needs `Python` (which is cpython, there are others like jython, pypy and ironpython as well)
-- To write code, we use `Jupyter` notebooks
+- basic setup needs `Python` (which is cpython, there are others like jython, pypy and ironpython as well)
+- to write code, we use `Jupyter` notebooks
 - data analysis needs `pandas` and `numpy`
 - data visualization needs `matplotlib`
 - modelling needs `TensorFlow`, `PyTorch` and `ScikitLearn`
@@ -52,8 +52,11 @@
 
 ## Python basics
 
-- To run python scripts, we can create a file `{filename}.py` and run it by `py {filename}.py`
-- We are going to be using Python 3.10.2
+- To run python scripts, we can create a file `{filename}.py` and run it by `py {filename}.py` or `python {filename}.py`
+- We are going to be using Python 3.9+
+- We can create a virtual environment by `python -m venv ./venv` (this was run inside `a0230288` directory)
+  - to activate, in CMD type `venv\Scripts\activate.bat` and to deactivate, `venv\Scripts\deactivate.bat`
+  - it is currently gitignored though
 
 ---
 
