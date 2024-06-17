@@ -57,6 +57,7 @@
 - We can create a virtual environment by `python -m venv ./venv` (this was run inside `a0230288` directory)
   - to activate, in CMD type `venv\Scripts\activate.bat` and to deactivate, `venv\Scripts\deactivate.bat`
   - it is currently gitignored though
+- Data structures: list, dict, set, tuple
 
 ---
 
